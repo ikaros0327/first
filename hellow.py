@@ -1,1 +1,1 @@
-print("fuck u i'm good")
+print("fuck u i'm good amd i  gittitititit")
